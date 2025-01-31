@@ -1,0 +1,9 @@
+{
+	"name": "adfproj-miciella",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de0236a8-29d3-48e1-b418-3a3337815363",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
